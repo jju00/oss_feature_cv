@@ -2,21 +2,6 @@
 
 > 이 문서는 **가상의 미래 이력서(Future CV)** 입니다.
 
-## 과제 체크리스트
-
-- [x] 제목에 Future CV 명시
-- [x] 이름 포함
-- [x] 이메일 주소 포함
-- [x] 간략한 자기소개(희망 직무 포함)
-- [x] 교육(Education)
-- [x] 인턴 경력(가상 가능)
-- [x] 프로젝트 경험
-- [x] 자격증
-- [x] 수상
-- [x] Markdown `headings`, `lists`, `links` 사용
-- [ ] GitHub Pages 배포 완료
-- [ ] GitHub Repository URL 제출
-
 ## 기본 정보
 
 - **이름:** 강주영
@@ -33,6 +18,9 @@
 웹/펌웨어/시스템 보안 실습, 취약점 분석, 재현 및 자동화 실험을 통해 실제 문제 해결 역량을 강화하고 있으며, 장기적으로는 연구와 현업을 연결하는 보안 리더를 지향합니다.
 
 ## Education
+
+### Bob 15기
+- 취약점 분석 트랙 교육 수료
 
 ### BlackCat (2025.03 - 2025.12)
 - 광운대학교 보안 동아리 회장 역임
@@ -58,17 +46,10 @@
 - 프로젝트 팀 관리
 - 해커톤 기획 및 운영
 
-## 인턴 경력 (Future)
+## 인턴 경력
 
-### Offensive Security Intern - Fictional Security Lab (2026.01 - 2026.02)
-- 웹 서비스 취약점 진단 자동화 파이프라인 운영
-- 취약점 재현 보고서 템플릿 표준화
-- 보안 점검 결과를 개발팀 Jira 티켓과 연동
-
-### Product Security Intern - Embedded Security Team (2026.07 - 2026.08)
-- IoT 펌웨어 분석 및 취약 지점 식별
-- 에뮬레이션 기반 동적 테스트 환경 구축 지원
-- 취약점 리스크 등급화 및 수정 우선순위 제안
+### 엔키 화이트햇 RedOps
+- RedOps 인턴 경력
 
 ## Projects
 
@@ -137,17 +118,10 @@
   - CVE-2025-25889
   - CVE-2025-25890
 
-## 자격증 (Future)
+## 자격증
 
-- OSCP (Offensive Security Certified Professional) - 취득 예정
-- eJPT - 취득 예정
-- 정보보안기사 - 취득 예정
-
-## 수상 (Future)
-
-- 2026 Security Conference Best Practical Research Award
-- 2026 University Offensive Security Challenge 대상
-- 2027 Bug Bounty Hall of Fame (Top Contributor)
+- OSCP (Offensive Security Certified Professional)
+- 정보처리기능사
 
 ## Technologies
 
@@ -166,7 +140,3 @@
 - [Write-up Blog](https://nagox.pages.dev/WriteUp/)
 - VMware 기반 EDR 직접 구축 및 탐지 실험
 - [EDR 구축 프로젝트](https://nagox.pages.dev/RedTeam/EDR/EDR-구축)
-
-## References
-
-- 담당 교수님 추천인 기재 가능
