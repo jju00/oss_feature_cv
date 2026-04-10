@@ -145,7 +145,3 @@
 
 1. GitHub Pages 배포 주소: [https://jju00.github.io/oss_feature_cv/](https://jju00.github.io/oss_feature_cv/)
 2. GitHub repository 주소: [https://github.com/jju00/oss_feature_cv](https://github.com/jju00/oss_feature_cv)
-
-## References
-
-- 박동규 교수님 (오픈소스소프트웨어실습)
