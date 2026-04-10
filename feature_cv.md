@@ -51,6 +51,10 @@
 ### 엔키 화이트햇 RedOps
 - RedOps 인턴 경력
 
+## Awards
+
+- DEFCON Final 본선 진출
+
 ## Projects
 
 ### LLM 기반 릴리즈 취약점 자동 탐지 시스템
