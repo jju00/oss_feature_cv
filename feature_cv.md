@@ -140,8 +140,3 @@
 - [Write-up Blog](https://nagox.pages.dev/WriteUp/)
 - VMware 기반 EDR 직접 구축 및 탐지 실험
 - [EDR 구축 프로젝트](https://nagox.pages.dev/RedTeam/EDR/EDR-구축)
-
-## 제출 링크
-
-1. GitHub Pages 배포 주소: [https://jju00.github.io/oss_feature_cv/](https://jju00.github.io/oss_feature_cv/)
-2. GitHub repository 주소: [https://github.com/jju00/oss_feature_cv](https://github.com/jju00/oss_feature_cv)
